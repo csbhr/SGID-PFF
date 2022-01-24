@@ -20,7 +20,7 @@ We propose an effective image dehazing algorithm which explores useful informati
 
 ![overview](https://s4.ax1x.com/2022/01/23/752HGn.png)  
 
-More detailed analysis and experimental results are included in [[Paper]](https://drive.google.com/drive/folders/1QbzoB4rHwIVdyfC80v5ufZc9w4ZF5_SF?usp=sharing) (for academic discussion only).
+More detailed analysis and experimental results are included in [[Paper]](https://ieeexplore.ieee.org/document/9677961).
 
 ## Dependencies
 
